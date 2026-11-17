@@ -1,0 +1,4 @@
+# Скрипты Windows: строки CRLF, кодировка (UTF-8 с BOM) сохраняется как есть
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
+*.md  text eol=crlf

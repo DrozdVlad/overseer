@@ -1,0 +1,8 @@
+# Данные конкретного компьютера — создаются сторожем при работе
+incidents.log
+incidents.log.old
+incidents.csv
+status.json
+status.json.tmp
+watchdog.pid
+settings.json
